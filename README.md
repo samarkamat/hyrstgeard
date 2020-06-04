@@ -3,10 +3,10 @@
 ## Quick Intro
 After a millenia of peace and order in the massive world of Hyrstgeard, unrest begins to lurk in greedy minds. The expensive mistakes of past wars begin to fade from even the oldest memories. The world that people thought they once knew, bears many more secrets to discover, and powers to tame.
 
-## Themes/Tone
-* Settings: Rural, small town, big cities
-* Encounter Types: Spy/Espionage/Assassinations; Character Arcs; Epic Battles; Unique Environments; Hunts; Heists; Rescue Missions; Gladiator Arenas, Sporting Events
-* No plans for large scale warfare (but then, whatever happens happens), expect more tactical combat. 
+## Themes/Tones/Etc
+* Settings Available: Rural, small town, big cities
+* Encounter Types: Standard Hero Stuff; Spy/Espionage/Assassinations; Character Arcs; Epic Battles; Unique Environments; Role Playing; Hunts; Heists; Rescue Missions; Gladiator Arenas; Sporting Events; 
+* No plans for large scale warfare (but then, whatever happens happens). Expect mostly tactical combat. 
 
 ## Magic
 There are only two known sources of magic in Hyrstgeard: ancestry & divinity:
@@ -33,16 +33,18 @@ Template:
 * Orc (_?)
 #### Republic of Tripoli
 * Elvish (Russian)
-* Ruled by the temple of life
-#### Hooman Kingdom
+* Ultimately a theocracy: elected officials work alongside clergy of the Elhonna, the goddess of life
+#### Hooman Kingdom (Name TBD)
 * Common (English)
 * Monarchy
-#### Dwarven Kingdom under the Peaks
+#### Dwarven Kingdom Range
 * Dwarven (Celtic?)
-#### Mining Stronghold
-#### Goblin Monarchy of 
+#### Dwarven Mining Stronghold
+* The mines circle a large inland sea
+* In the center is the world's most impregnable prison
+#### Goblin Kingdom
 * Goblin (gibberish)
-#### Goliath Nation 
+#### The Goliath Nation 
 * Goliath (Mongolian)
 * villages recently united under 1 khan
 
