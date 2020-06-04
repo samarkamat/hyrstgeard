@@ -49,6 +49,7 @@ Template:
 * villages recently united under 1 khan
 
 ## History
+Reconsidering how much of this is common lore, how much of this is uncovered from encouters
 ### 1500 years ago
 ### 1000 years ago
 ### 500 years ago
