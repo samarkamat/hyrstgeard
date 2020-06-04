@@ -1,5 +1,8 @@
-# Premise
+## premise
+PC's are in a border-town jail, all for their own reasons
 
-# tldr
+## tldr
 
-# session 1: Jailbreak
+## session 1: Jailbreak
+
+
