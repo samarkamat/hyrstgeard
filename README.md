@@ -1,7 +1,7 @@
 # hyrstgeard
 
 ## Quick Intro
-(doing this last)
+After a millenia of peace and order in the massive world of Hyrstgeard, unrest begins to lurk in greedy minds. The expensive mistakes of past wars begin to fade from even the oldest memories. The world that people thought they once knew, bears many more secrets to discover, and powers to tame.
 
 ## Themes/Tone
 * Settings: Rural, small town, big cities
