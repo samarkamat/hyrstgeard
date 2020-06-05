@@ -1,7 +1,7 @@
 # hyrstgeard
 
 ## Quick Intro
-After a millenia of peace and order in the massive world of Hyrstgeard, unrest begins to lurk in greedy minds. The expensive mistakes of past wars begin to fade from even the oldest memories. The world that people thought they once knew, bears many more secrets to discover, and powers to tame.
+After a millenia of peace and order in the massive world of Hyrstgeard, greed begins to take hold of restless minds. The expensive mistakes of past wars begin to fade from even the oldest memories. The world that was thought to be fully known, it turns out, bears many more secrets to discover, and ancient powers to tame.
 
 ## Access to Magic
 There are only two known sources of magic in Hyrstgeard: ancestry & divinity:
