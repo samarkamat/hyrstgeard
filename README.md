@@ -3,9 +3,6 @@
 ## Quick Intro
 After a millenia of peace and order in the massive world of Hyrstgeard, unrest begins to lurk in greedy minds. The expensive mistakes of past wars begin to fade from even the oldest memories. The world that people thought they once knew, bears many more secrets to discover, and powers to tame.
 
-
-
-
 ## Access to Magic
 There are only two known sources of magic in Hyrstgeard: ancestry & divinity:
 * *Fey Ancestry*: Elves & Gnomes are races originally from the Feywild, and they innately carry the spark of wild magic within them
@@ -19,12 +16,23 @@ Resurrection is not a thing. Death is final.
 * Limited to Humans, (half) Orcs, (half) Elves, Halflings, Dwarves, Gnomes, Goliaths, Goblins, Dragonborn (no tieflings, yet)
 
 ## Geography & Map
+<details>
+  <summary>World Map</summary>
 
-### Kingdoms, Culture & Important Places
+![world map](maps/worldmap-draft1.jpg)
+
+</details>
+
+
+## Kingdoms, Culture & Important Places
 Template:
 * Official Language (& IRL language)
 * Government Type
 * Customs & Laws
+
+<details>
+  <summary>Major Factions</summary>
+
 #### Dragonborn Empire _
 * Draconic (German)
 #### Federation of Orcen Tribes
@@ -46,12 +54,36 @@ Template:
 * Goliath (Mongolian)
 * villages recently united under 1 khan
 
+</details>
+
+
 ## History
 Reconsidering how much of this is common lore, how much of this is uncovered from encouters
-### 1500 years ago
-### 1000 years ago
-### 500 years ago
-### last 100 years
+
+<details>
+  <summary>1500 years ago</summary>
+
+- shit went down
+
+</details>
+<details>
+  <summary>1000 years ago</summary>
+
+- shit calmed down
+
+</details>
+<details>
+  <summary>500 years ago</summary>
+
+- shit got boring
+
+</details>
+<details>
+  <summary>last 100 years</summary>
+
+- shit's getting real
+
+</details>
 
 ## Themes/Tones/Etc
 <details>
