@@ -57,7 +57,7 @@ Reconsidering how much of this is common lore, how much of this is uncovered fro
 <details>
   <summary>Expand</summary>
 
-* Settings Available: Rural, small town, big cities
+* Settings Available: Rural, small town, big cities, mines, hideouts, mountains
 * Encounter Types: Standard Hero Stuff; Spy/Espionage/Assassinations; Character Arcs; Epic Battles; Unique Environments; Role Playing; Hunts; Heists; Rescue Missions; Gladiator Arenas; Sporting Events; 
 * No plans for large scale warfare (but then, whatever happens happens). Expect mostly tactical combat. 
 
