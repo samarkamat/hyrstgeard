@@ -42,23 +42,30 @@ Template:
 * Republic / Meritocracy: Each village's chieftain fights for his right to lead. All chieftains meet to set nation-wide policy and law. One of them is selected as chairman and arbiter of disputes. 
 #### Republic of Tripoli
 * Elvish (Russian)
-* Ultimately a theocracy: elected officials work alongside clergy of the Elhonna, the goddess of life
+* Ultimately a theocracy: elected officials work alongside clergy of Elhonna, the goddess of life, but the government is overseen by the abbot of the temple
 #### Hooman Kingdom (Name TBD)
 * Common (English)
-* Monarchy
+* Monarchy; The king also sits as one of the members of the Orc chieftain council, but has never been selected as the chairman.
 #### Dwarven Kingdom Range
 * Dwarven (Celtic?)
+
 #### Dwarven Mining Stronghold
-* The mines circle a large inland sea
-* In the center is the world's most impregnable prison
+* The mines circle the large inland sea of _ 
+* In the center is the world's most impregnable prison. Built by dwarves, houses criminals and monsters from all of hyrstgeard
+
 #### Goblin Kingdom
 * Goblin (gibberish)
-#### The Goliath Nation 
+* Monarchy: who ever kills the king becomes the king. No goblin king has died of old age in the past 500 years
+
+#### The Goliath Mountain Nation 
 * Goliath (Mongolian)
-* villages recently united under 1 khan
+* villages recently united under 1 khan in wartime; As wartime has ended, they're still figuring this out. 
+
+#### The Halfling Forest Nation
+* Halfing (_ ?)
+* City-states that live in the _ forest
 
 </details>
-
 
 ## History
 Reconsidering how much of this is common lore, how much of this is uncovered from encouters
