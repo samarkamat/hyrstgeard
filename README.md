@@ -8,7 +8,7 @@ After a millenia of peace and order in the massive world of Hyrstgeard, unrest b
 * Encounter Types: Standard Hero Stuff; Spy/Espionage/Assassinations; Character Arcs; Epic Battles; Unique Environments; Role Playing; Hunts; Heists; Rescue Missions; Gladiator Arenas; Sporting Events; 
 * No plans for large scale warfare (but then, whatever happens happens). Expect mostly tactical combat. 
 
-## Magic Availability
+## Access to Magic
 There are only two known sources of magic in Hyrstgeard: ancestry & divinity:
 * *Fey Ancestry*: Elves & Gnomes are races originally from the Feywild, and they innately carry the spark of wild magic within them
 * *Dragon Ancestry*: Dragonborn inherit their magical abilities from their Dragon ancestors
