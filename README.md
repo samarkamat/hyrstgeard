@@ -3,10 +3,8 @@
 ## Quick Intro
 After a millenia of peace and order in the massive world of Hyrstgeard, unrest begins to lurk in greedy minds. The expensive mistakes of past wars begin to fade from even the oldest memories. The world that people thought they once knew, bears many more secrets to discover, and powers to tame.
 
-## Themes/Tones/Etc
-* Settings Available: Rural, small town, big cities
-* Encounter Types: Standard Hero Stuff; Spy/Espionage/Assassinations; Character Arcs; Epic Battles; Unique Environments; Role Playing; Hunts; Heists; Rescue Missions; Gladiator Arenas; Sporting Events; 
-* No plans for large scale warfare (but then, whatever happens happens). Expect mostly tactical combat. 
+
+
 
 ## Access to Magic
 There are only two known sources of magic in Hyrstgeard: ancestry & divinity:
@@ -55,5 +53,13 @@ Reconsidering how much of this is common lore, how much of this is uncovered fro
 ### 500 years ago
 ### last 100 years
 
-Other Mechanics (Planes ‘n Such)
+<details>
+  <summary><h2>Themes/Tones/Etc </h2></summary>
+
+* Settings Available: Rural, small town, big cities
+* Encounter Types: Standard Hero Stuff; Spy/Espionage/Assassinations; Character Arcs; Epic Battles; Unique Environments; Role Playing; Hunts; Heists; Rescue Missions; Gladiator Arenas; Sporting Events; 
+* No plans for large scale warfare (but then, whatever happens happens). Expect mostly tactical combat. 
+</details>
+
+## Other Mechanics (Planes ‘n Such)
 Blah
