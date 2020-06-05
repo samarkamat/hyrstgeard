@@ -33,10 +33,13 @@ Template:
 <details>
   <summary>Major Factions</summary>
 
-#### Dragonborn Empire _
+#### Dragonborn Empire
 * Draconic (German)
+* Monarchy, passing to eldest heir
+* Situated in the foothills of the Southern Mountains, where dragons used to live before they were hunted to extinction, often by the dragonborn themselves, out of defense.
 #### Federation of Orcen Tribes
 * Orc (_?)
+* Republic / Meritocracy: Each village's chieftain fights for his right to lead. All chieftains meet to set nation-wide policy and law. One of them is selected as chairman and arbiter of disputes. 
 #### Republic of Tripoli
 * Elvish (Russian)
 * Ultimately a theocracy: elected officials work alongside clergy of the Elhonna, the goddess of life
@@ -70,6 +73,7 @@ Reconsidering how much of this is common lore, how much of this is uncovered fro
   <summary>1000 years ago</summary>
 
 - shit calmed down
+- also, no more dragons :'(
 
 </details>
 <details>
@@ -81,7 +85,7 @@ Reconsidering how much of this is common lore, how much of this is uncovered fro
 <details>
   <summary>last 100 years</summary>
 
-- shit's getting real
+- shit's been getting real
 
 </details>
 
