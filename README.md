@@ -53,8 +53,9 @@ Reconsidering how much of this is common lore, how much of this is uncovered fro
 ### 500 years ago
 ### last 100 years
 
+## Themes/Tones/Etc
 <details>
-  <summary><b>Themes/Tones/Etc </b></summary>
+  <summary>Expand</summary>
 
 * Settings Available: Rural, small town, big cities
 * Encounter Types: Standard Hero Stuff; Spy/Espionage/Assassinations; Character Arcs; Epic Battles; Unique Environments; Role Playing; Hunts; Heists; Rescue Missions; Gladiator Arenas; Sporting Events; 
