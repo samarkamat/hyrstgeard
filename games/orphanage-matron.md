@@ -8,5 +8,8 @@
 ## tldr
 
 ## session 0: 1hr
+- who are the returned orphans?
+- what are their bonds to each other and to Mother Wyndel?
 
 ## session 1: 3hrs
+
