@@ -12,4 +12,4 @@
 - what are their bonds to each other and to Mother Wyndel?
 
 ## session 1: 3hrs
-
+- 1hr play, 15m break, 1hr play
