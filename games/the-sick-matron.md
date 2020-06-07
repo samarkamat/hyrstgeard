@@ -8,8 +8,10 @@
 ## tldr
 
 ## session 0: 1hr
+Scheduling: https://doodle.com/poll/ecugnb9qf4fzzw9b
 - who are the returned orphans?
 - what are their bonds to each other and to Mother Wyndel?
 
 ## session 1: 3hrs
+Scheduling: https://doodle.com/poll/ybvev6y2wz68g9n6
 - 1hr play, 15m break, 1hr play
