@@ -10,12 +10,13 @@
 - halfing rogue (
 - half-elf sorcerer (discovered powers late in life, still trying to get the hang of it)
 
-### flavor: potential childhood traits to choose from (could still be that way, or could have changed since then):
-- used to be the bully 
+### flavor: 
+(Potential childhood traits to choose from. Could still be that way, or could have changed since childhood):
+- was the bully 
 - was the class clown
 - was the untalented
 - was the cool kid
-- was the wierdo
+- was the emo
 
 ## tldr
 
