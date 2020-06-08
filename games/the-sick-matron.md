@@ -4,12 +4,18 @@
 - Her only hope is a potion, made from a rare flower, found on a single type of tree, in the dangerous jungle to the north... 
 
 ## cast
-- ranger mercenary
-- fighter training in the human kingdom's army
-- cleric 
-- rogue 
-- sorcerer
+- elf ranger (mercenary hired to help guide) **taken**
+- human fighter, (soldier working on getting knighted?)
+- dwarven cleric (
+- halfing rogue (
+- half-elf sorcerer (discovered powers late in life, still trying to get the hang of it)
 
+### flavor: potential childhood traits to choose from (could still be that way, or could have changed since then):
+- used to be the bully 
+- was the class clown
+- was the untalented
+- was the cool kid
+- was the wierdo
 
 ## tldr
 
