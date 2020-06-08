@@ -3,7 +3,13 @@
 - You've all grown up and gone your ways, but you've heard that Mother Wyndel has fallen sick, and returned to her side. 
 - Her only hope is a potion, made from a rare flower, found on a single type of tree, in the dangerous jungle to the north... 
 
-### cast
+## cast
+- ranger mercenary
+- fighter training in the human kingdom's army
+- cleric 
+- rogue 
+- sorcerer
+
 
 ## tldr
 
