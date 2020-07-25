@@ -1,7 +1,8 @@
 ## premise
-- You were all orphans that grew up together at the Wool's Orphanage, where Mother Wyndel took care of all of you. 
-- You've all grown up and gone your ways, but you've heard that Mother Wyndel has fallen sick, and returned to her side. 
-- Her only hope is a potion, made from a rare flower, found on a single type of tree, in the dangerous jungle to the north... 
+- You were all orphans that grew up together at the Wool's Orphanage, where [Sister Wyndel](https://www.notion.so/Sister-Wyndel-cd048cb2297a4c0e9fdec306dabe81a7) took care of all of you.
+- You've all since grown up and gone your separate ways.
+- A few days ago, you got an urgent mail that Sister Wyndel has fallen sick, and that she needs your help.
+- You all immediately arrange for time off and travel to Wool's Orphanage, anxious to help the woman who raised you, and also for the coming reunion in your childhood home.
 
 ## cast
 - elf ranger (mercenary hired to help guide) **taken**
