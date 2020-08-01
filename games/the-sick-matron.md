@@ -6,16 +6,17 @@
 
 ## cast
 - elf ranger (mercenary hired to help guide) **taken**
-- human fighter, (soldier working on getting knighted?)
-- dwarven cleric (
-- halfing rogue (
-- half-elf sorcerer (discovered powers late in life, still trying to get the hang of it)
+- human fighter (soldier in the human king's army; working on getting knighted and joining the Kings Guard)
+- dwarven cleric (living in middle rung of tripoli, studying to become a cleric like Sister Wyndel)
+- halfing rogue (living in bottom rung of tripoli, stealing for a living; not exactly proud of it, wishes they could get a square life)
+- half-elf sorcerer (living in a human town, discovered powers in the last year, still trying to get the hang of it)
 
 ### flavor: 
 (Potential childhood traits to choose from. Could still be that way, or could have changed since childhood):
 - was the bully 
 - was the class clown
 - was the untalented
+- was the bullied kid
 - was the cool kid
 - was the emo
 
