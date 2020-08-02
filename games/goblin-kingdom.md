@@ -1,6 +1,10 @@
 ## premise
 PC's are in a goblin border-town jail, all for their own reasons. Break out, seize the day!
 
+## Cast
+- Rahzel Kin Hanalis
+  - https://www.dndbeyond.com/profile/samarkamat/characters/33119049
+
 ## tldr
 
 ## session 1: jailbreak
