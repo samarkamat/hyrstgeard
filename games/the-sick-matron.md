@@ -20,7 +20,7 @@
   - https://www.dndbeyond.com/profile/samarkamat/characters/33078170
 
 ### flavor: 
-(Potential childhood traits to choose from. Could still be that way, or could have changed since childhood):
+(Potential childhood traits to choose from. Traits could still be that way, or could have changed since you separated):
 - was the bully 
 - was the class clown
 - was the untalented
@@ -28,9 +28,11 @@
 - was the cool kid
 - was the emo
 
-## session 0: 1hr
-- who are the returned orphans?
-- what are their bonds to each other and to Sister Wyndel?
-
 ## session 1: 3hrs
 - 1hr play, 15m break, 1hr play
+
+# settings
+
+![image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/02fd106d-e401-4a3a-b78b-9c3f34847f16/forest-rain-path.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200802%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200802T190832Z&X-Amz-Expires=86400&X-Amz-Signature=00170ec9e92d61eaa66b4599ec3a7f05489d9a485694e4bf520b80f89b1e7d0e&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22forest-rain-path.jpg%22)
+![image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/cd04ca3c-acd5-4084-9e9d-a32ed7399252/forest-hut.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200802%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200802T190951Z&X-Amz-Expires=86400&X-Amz-Signature=299d46144e46c89fa792c98943f8bb1d09ed56a5b26f9c25e91ab5d6aeac2d26&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22forest-hut.jpg%22)
+![image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8e26827c-0a1e-4a17-a6c6-ee77379c6785/jungle-path.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200802%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200802T191009Z&X-Amz-Expires=86400&X-Amz-Signature=c9497319879480f2bd8d957535732815a82e2d4b3b9a455f77f102593ad82df8&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22jungle-path.jpg%22)
