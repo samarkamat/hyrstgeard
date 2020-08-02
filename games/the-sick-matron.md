@@ -6,6 +6,7 @@
 
 ## cast
 - elf ranger (mercenary hired to help guide) **taken**
+  - https://www.dndbeyond.com/profile/samarkamat/characters/33123410
 - human fighter (soldier in the human king's army; working on getting knighted and joining the Kings Guard)
   - 1 great axe (2d6) OR 1 longsword (1d8) + shield (+2 AC)
   - https://www.dndbeyond.com/profile/samarkamat/characters/33074453
