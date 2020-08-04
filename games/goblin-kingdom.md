@@ -8,6 +8,13 @@ PC's are in a goblin border-town jail, all for their own reasons. Break out, sei
 ## tldr
 
 ## session 1: jailbreak
+- all PC's are in the local town jail in a Goblin kingdom, border town called Grim Gates
+  - everyone there for a different reason
+  - in the jail, along with the PC's were three NPC's:
+    - goblin butcher who couldn't pay the mob boss
+    - human claiming to be a wizard
+    - pale sickly elf, apparently cared for by human
+- 
 
 ## session 2: bounty hunting
 
