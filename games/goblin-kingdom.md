@@ -14,9 +14,14 @@ PC's are in a goblin border-town jail, all for their own reasons. Break out, sei
     - goblin butcher who couldn't pay the mob boss
     - human claiming to be a wizard
     - pale sickly elf, apparently cared for by human
-- 
+- fought the guards and broke out
+  - goblin butcher fought alongside the party
+  - sickly elf was given his book back, and promptly dissappeared and gtfo
+  - raegar executed the human for his cool black cloak with gold trimming
+- tried to take on the mob boss as revenge, but almost died, so scaled the town walls, and bolted
 
 ## session 2: bounty hunting
+- team heals up in the woods, rahzel reveals a bounty for a deserter general 
 
 ## session 3: three peaks 
 
