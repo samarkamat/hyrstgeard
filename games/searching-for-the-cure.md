@@ -17,7 +17,7 @@
   - https://www.dndbeyond.com/profile/samarkamat/characters/33074892
 - half-elf sorcerer (blacksmith apprentice in a nearby human town, discovered powers in the last year, still trying to get the hang of it)
   - known as a folk hero for standing up to unfair mayor, sorcery may kinda be getting to his head
-  - https://www.dndbeyond.com/profile/samarkamat/characters/33078170
+  - https://ddb.ac/characters/35073316/cmTPfU
 
 ### flavor: 
 (Potential childhood traits to choose from. Traits could still be that way, or could have changed since you separated):
