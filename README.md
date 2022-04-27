@@ -42,13 +42,13 @@ Template:
 * Orc (_?)
 * Republic / Meritocracy: Each village's chieftain fights for his right to lead. All chieftains meet to set nation-wide policy and law. One of them is selected as chairman and arbiter of disputes. 
 
-#### Republic of Tripoli
+#### City-state Tripoli, and surrrounding metropolitan sprawl
 * Elvish (Russian)
-* Constructed vertically on 3 cocentric circular platforms, each smaller than the one below. 
-    * The "Ground" level is home to the common folks, merchants, and the hero guild. 
-    * The "Middle" level is home to the academia, artisan guilds, and the standard clergy
+* City itself is constructed vertically on 3 cocentric circular platforms, each smaller than the one below. 
+    * The "Ground" level is home to the common folks, merchants, and the hero guild, which is the only form of law enforcement. There are temples here that the clergy run. But this is also the most diverse and secular part of the city. 
+    * The "Middle" level is home to the academia, artisan guilds, and most of the clergy
     * The "Upper" tier houses the main temple, the Volkhev (religious leader),  the highest order of paladins and clerics
-* Ultimately a theocracy: elected officials work alongside clergy of Elhonna, the goddess of life, but the government is overseen by the abbot of the temple
+* Ultimately a theocracy: elected officials work alongside clergy of Elhonna, the goddess of life, but the government is overseen by the Volkhev of the temple
 
 #### Hooman Kingdom (Name TBD)
 * Common (English)
