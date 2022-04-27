@@ -37,12 +37,19 @@ Template:
 * Draconic (German)
 * Monarchy, passing to eldest heir
 * Situated in the foothills of the Southern Mountains, where dragons used to live before they were hunted to extinction, often by the dragonborn themselves, out of defense.
+  
 #### Federation of Orcen Tribes
 * Orc (_?)
 * Republic / Meritocracy: Each village's chieftain fights for his right to lead. All chieftains meet to set nation-wide policy and law. One of them is selected as chairman and arbiter of disputes. 
+
 #### Republic of Tripoli
 * Elvish (Russian)
+* Constructed vertically on 3 cocentric circular platforms, each smaller than the one below. 
+    * The "Ground" level is home to the common folks, merchants, and the hero guild. 
+    * The "Middle" level is home to the academia, artisan guilds, and the standard clergy
+    * The "Upper" tier houses the main temple, the Volkhev (religious leader),  the highest order of paladins and clerics
 * Ultimately a theocracy: elected officials work alongside clergy of Elhonna, the goddess of life, but the government is overseen by the abbot of the temple
+
 #### Hooman Kingdom (Name TBD)
 * Common (English)
 * Monarchy; The king also sits as one of the members of the Orc chieftain council, but has never been selected as the chairman.
