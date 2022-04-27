@@ -99,7 +99,7 @@ Reconsidering how much of this is common lore, how much of this is uncovered fro
 <details>
   <summary>last 100 years</summary>
 
-- shit's been getting real
+- peeps be getting restless and greedy
 
 </details>
 
