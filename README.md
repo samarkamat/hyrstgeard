@@ -49,6 +49,7 @@ Template:
     * The "Middle" level is home to the academia, artisan guilds, and most of the clergy
     * The "Upper" tier houses the main temple, the Volkhev (religious leader),  the highest order of paladins and clerics
 * Ultimately a theocracy: elected officials work alongside clergy of Elhonna, the goddess of life, but the government is overseen by the Volkhev of the temple
+  * Ranks:  High Priest(ess) Brotor -> Divine Council -> Divine Guard (Paladins) -> Priests -> Guards -> Clerics -> Initiate/Acolytes
 
 #### Hooman Kingdom (Name TBD)
 * Common (English)
