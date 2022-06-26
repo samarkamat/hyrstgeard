@@ -46,6 +46,7 @@ Template:
 * Primarily Elvish (Russian), but almost all other cultures can be found here
 * City itself is constructed vertically on 3 cocentric circular platforms, each smaller than the one below. 
     * The "Ground" level is home to the common folks, merchants, and the hero guild, which is the only form of law enforcement. There are temples here that the clergy run. But this is also the most diverse and secular part of the city. 
+      * map: https://inkarnate.com/m/W2x8oz--tripoli-base-2/
     * The "Middle" level is home to the academia, artisan guilds, and most of the clergy
     * The "Upper" tier houses the main temple, the Volkhev (religious leader),  the highest order of paladins and clerics
 * Ultimately a theocracy: elected officials work alongside clergy of Elhonna, the goddess of life, but true decisions are made by the clergy
