@@ -33,7 +33,7 @@ Template:
 <details>
   <summary>Major Factions</summary>
 
-#### Dragonborn Empire
+#### Vulkanheim, Dragonborn Kingdom
 * Draconic (German)
 * Monarchy, passing to eldest heir
 * Situated in the foothills of the Southern Mountains, where dragons used to live before they were hunted to extinction, often by the dragonborn themselves, out of defense.
