@@ -47,7 +47,7 @@ Template:
 * City itself is constructed vertically on 3 cocentric circular platforms, each smaller than the one below. 
     * The "Ground" level is home to the common folks, merchants, and the hero guild, which is the only form of law enforcement. There are temples here that the clergy run. But this is also the most diverse and secular part of the city. 
       * map: https://inkarnate.com/m/W2x8oz--tripoli-base-2/
-    * The "Middle" level, aka The Old City, aka The Houses, is home to multiple noble families that together own, fund, or manage many of the city's non-clerical aspects. Of the 7 most powerful families currently in power, 5 are elves, one human, and one dwarf.
+    * The "Middle" level, aka The Old City, aka The Houses, is home to multiple noble families that together own, fund, or manage many of the city's non-clerical aspects. Of the 5 most powerful families currently in power, 4 are elves, one human.
       * the old city is also home to the academia, and most of the clergy.
     * The "Upper" tier houses the main temple, the Volkhev (religious leader),  the highest order of paladins and clerics
 * Ultimately a theocracy: elected officials work alongside clergy of Elhonna, the goddess of life, but true decisions are made by the clergy
